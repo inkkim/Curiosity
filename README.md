@@ -2,7 +2,7 @@
 
 * 주제
 
-1. Numpy (Python Library)
+__1. Numpy (Python Library)__
 
  행렬이나 일반적으로 대규모 다차원 배열을 쉽게 처리 할 수 있도록 지원하는 Python Library
 
