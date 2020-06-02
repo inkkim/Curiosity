@@ -1,5 +1,5 @@
 import numpy as np
-"""
+
 list_data = [1, 2, 3]
 array = np.array(list_data)
 
@@ -48,7 +48,7 @@ print(comb_array1)
 print(comb_array2)
 
 comb_array3 = np.concatenate([comb_array1, comb_array2], axis = 0)
-print(comb_array3)"""
+print(comb_array3)
 
 # 배열 나누기
 split_array1 = np.arange(8).reshape(2, 4)
@@ -57,4 +57,3 @@ print(split_array1)
 print(left.shape)
 print(right.shape)
 
-# 커밋돼라
