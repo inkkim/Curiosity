@@ -63,3 +63,9 @@ __10. OpenCV 도형 그리기 (2020.06.19)__
 __11. OpenCV Contours (2020.06.20)__
    - Contour 찾기
    - Contour 그리기
+
+
+__12. OpenCV Contour (2020.06.21 - 2020.06.22)__
+   - Contour의 사각형 외각 찾기
+   - Contour의 근사치 구하기
+   - Contour의 면적/둘레/특징 구하기
