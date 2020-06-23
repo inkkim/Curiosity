@@ -69,3 +69,7 @@ __12. OpenCV Contour (2020.06.21 - 2020.06.22)__
    - Contour의 사각형 외각 찾기
    - Contour의 근사치 구하기
    - Contour의 면적/둘레/특징 구하기
+
+
+__13. OpenCV Filtering (2020.06.23)__
+   - Image Filtering (Smoothing, Blurring)
