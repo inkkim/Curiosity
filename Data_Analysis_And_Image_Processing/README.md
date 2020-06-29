@@ -73,3 +73,8 @@ __12. OpenCV Contour (2020.06.21 - 2020.06.22)__
 
 __13. OpenCV Filtering (2020.06.23)__
    - Image Filtering (Smoothing, Blurring)
+   
+
+__14. KNN Algorithm Neighbor (2020.06.29)__
+   - K-Nearest Neighbor
+   
