@@ -1,5 +1,3 @@
-# 1일 1커밋 챌린지 2020.06.01 ~
-
 * 주제
 
 1. Data Analysis and Image Processing (Python)
